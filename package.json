@@ -1,0 +1,23 @@
+{
+  "name": "backendbootcamp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manealuca/backendBootCamp.git"
+  },
+  "keywords": [],
+  "author": "LucaManea <Luca.cmanea@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/manealuca/backendBootCamp/issues"
+  },
+  "homepage": "https://github.com/manealuca/backendBootCamp#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
